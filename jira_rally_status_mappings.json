@@ -1,0 +1,41 @@
+{
+  "defect": {
+    "To Do": "Open",
+    "In Progress": "Open",
+    "Code Review": "Open",
+    "Testing": "Fixed",
+    "Done": "Closed",
+    "Closed": "Closed",
+    "Open": "Open",
+    "Resolved": "Closed",
+    "Completed": "Closed",
+    "Deprecated": "Closed",
+    "Validation": "Closed"
+  },
+  "hierarchicalrequirement": {
+    "To Do": "Defined",
+    "In Progress": "In-Progress",
+    "Code Review": "In-Progress",
+    "Testing": "Completed",
+    "Done": "Completed",
+    "Closed": "Completed",
+    "Open": "Defined",
+    "Resolved": "Completed",
+    "Completed": "Completed",
+    "Deprecated": "Completed",
+    "Validation": "Completed"
+  },
+  "task": {
+    "To Do": "Defined",
+    "In Progress": "In-Progress",
+    "Code Review": "In-Progress",
+    "Testing": "Completed",
+    "Done": "Completed",
+    "Closed": "Completed",
+    "Open": "Defined",
+    "Resolved": "Completed",
+    "Completed": "Completed",
+    "Deprecated": "Completed",
+    "Validation": "Completed"
+  }
+}
